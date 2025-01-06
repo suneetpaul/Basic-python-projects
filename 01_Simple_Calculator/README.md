@@ -1,4 +1,4 @@
-Simple Calculator Program
+#Simple Calculator Program
 
 This project is a basic calculator program implemented in Python. It allows users to 
 perform four fundamental arithmetic operations: addition, subtraction, multiplication, and division. 
