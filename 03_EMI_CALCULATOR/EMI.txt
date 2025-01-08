@@ -1,0 +1,53 @@
+EMI CALCULATOR PROGRAM 
+The program is an EMI (Equated Monthly Installment) calculator that allows users
+to calculate either simple interest or compound interest based on their input. 
+It is designed to be interactive, prompting the user for necessary inputs and displaying 
+the results.
+
+Key Features
+
+Simple Interest Calculation:
+
+Formula: Simple Interest = (Principal × Rate × Time) / 100
+
+Compound Interest Calculation:
+
+Formula: Amount = Principal × (1 + (Rate / (100 × n))) ^ (n × Time)
+
+User Interaction:
+
+Asks the user whether they want to calculate interest.
+Prompts the user to choose between simple or compound interest.
+
+Looping Mechanism:
+
+The program runs in a loop, allowing the user to perform multiple calculations 
+until they choose to exit by typing "no".
+
+Functions
+
+simple_interest(r, p, t): Calculates simple interest using the formula.
+
+compound_interest(r, p, t, n): Calculates the total amount using the compound interest formula.
+
+main(): Handles user interaction, input collection, and function calls.
+
+How It Works
+
+The program starts by asking the user if they want to calculate interest.
+If the user chooses simple interest, it calculates and displays the simple 
+interest and total amount.
+
+If the user chooses compound interest, it calculates and displays the 
+compound interest and total amount.
+
+The program continues to loop until the user inputs "no" to exit.
+
+Corrected output messages to accurately reflect the type of interest 
+being calculated.
+
+Ensured the interest rate is converted from a percentage to a decimal 
+in the compound interest formula.
+
+This program is a simple yet effective tool for calculating interest, 
+suitable for educational purposes or personal finance calculations.
