@@ -1,7 +1,7 @@
-# Basic-python-programs
+# BASIC-PYTHON-PROGRAMS
 
-#*SIMPLE CALCULATOR *
+## **SIMPLE CALCULATOR**    <a href="https://github.com/suneetpaul/Basic-python-projects/tree/main/01_Simple_Calculator">open ->🔓 </a>
 
-#* BMI CALCULATOR*
+## __BMI CALCULATOR__       <a href="https://github.com/suneetpaul/Basic-python-projects/tree/main/02_BMI_Calculator">open ->🔓 </a>
 
-#*EMI CALCULATOR*
+## __EMI CALCULATOR__
